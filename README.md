@@ -11,10 +11,11 @@ When the list grew to nearly 100 participants, manually sending emails became im
 This project is the exact tool I built and used to send those participant emails efficiently. Here’s how it works:
 
 💡 What This Project Does
+
 ✔ Sends personalized emails to multiple participants 
 ✔ Uses secure Gmail SMTP service  
 ✔ Plain text emails for easy delivery (can be upgraded to HTML)  
-✔ Automates bulk messaging in seconds 
+✔ Automates bulk messaging in seconds         
 ✔ Real-world tested during my college chess tournament 
 
 🛠️ Technologies Used
