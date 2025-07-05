@@ -14,9 +14,9 @@ This project is the exact tool I built and used to send those participant emails
 
 ✔ Sends personalized emails to multiple participants         
 ✔ Uses secure Gmail SMTP service  
-✔ Plain text emails for easy delivery (can be upgraded to HTML)  
-✔ Automates bulk messaging in seconds         
-✔ Real-world tested during my college chess tournament 
+✔ Plain text emails for easy delivery (can be upgraded to HTML)    
+✔ Automates bulk messaging in seconds                        
+✔ Real-world tested during my college chess tournament  
 
 🛠️ Technologies Used
 Python 3
