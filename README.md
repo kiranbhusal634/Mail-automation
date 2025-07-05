@@ -51,7 +51,7 @@ Done! In my case, nearly 100 participants got their invites and tie sheets insta
 
  ✅ How to automate repetitive tasks with Python     
  ✅ Real-world application of smtplib and email handling                   
- ✅ Confidence boost seeing my small AI-inspired automation in action
+ ✅ Confidence boost seeing my small AI-inspired automation in action                                                                    
  ✅ Saving hours of manual effort with a few lines of code
 
 
