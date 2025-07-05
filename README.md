@@ -12,7 +12,7 @@ This project is the exact tool I built and used to send those participant emails
 
 💡 What This Project Does
 
-✔ Sends personalized emails to multiple participants 
+✔ Sends personalized emails to multiple participants         
 ✔ Uses secure Gmail SMTP service  
 ✔ Plain text emails for easy delivery (can be upgraded to HTML)  
 ✔ Automates bulk messaging in seconds         
@@ -48,10 +48,11 @@ python send_emails.py
 Done! In my case, nearly 100 participants got their invites and tie sheets instantly.
 
 🚀 What I Learned
-✅ How to automate repetitive tasks with Python
-✅ Real-world application of smtplib and email handling
-✅ Confidence boost seeing my small AI-inspired automation in action
-✅ Saving hours of manual effort with a few lines of code
+
+ ✅ How to automate repetitive tasks with Python     
+ ✅ Real-world application of smtplib and email handling                   
+ ✅ Confidence boost seeing my small AI-inspired automation in action
+ ✅ Saving hours of manual effort with a few lines of code
 
 
 🌱 Possible Future Upgrades
